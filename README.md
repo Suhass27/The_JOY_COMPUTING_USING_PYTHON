@@ -6,13 +6,13 @@
 # Table content
   1.Getting  Started with Python
 
-   2.Week2 Programming Assignement
+   2.Week2 Programming Assignment
 
-  3.Week3 Programming Assignement
+  3.Week3 Programming Assignment
 
-  4.Week4  Programming  Assignement  
+  4.Week4  Programming  Assignment  
 
-5.Week5 Programming 
+5.Week5 Programming Assignment
 
 
 

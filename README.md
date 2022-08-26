@@ -1,7 +1,7 @@
 
 # Python NPTEL COURSE 
 
-     This Repository contain solution of NPTEL of Assignement.
+     This Repository contain solution for NPTEL Assignement.
 
 # Table content
   1.Getting  Started with Python

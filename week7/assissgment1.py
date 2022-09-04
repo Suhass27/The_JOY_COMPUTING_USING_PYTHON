@@ -1,9 +1,9 @@
 def DiagCalc(li):
    index = len(li)
-   first_dia =  sum(li[i][i]for i in range(index))
-   second_dia = sum(li[i][index-i-1]for i in range(index))
-   print(first_dia)
-   print(second_dia )
+   rsum =  sum(li[i][i]for i in range(index))
+   lsum = sum(li[i][index-i-1]for i in range(index))
+   print(rsum)
+   print(lsum)
 # n = int(input())
 # M = []
 # for i in range(n):
